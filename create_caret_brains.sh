@@ -150,6 +150,4 @@ for contrast in 1 2 3 4 5 6 7 8 9 10
         ${folder}/caret_brains/c${contrast}_LH.jpg \
         ${folder}/caret_brains/c${contrast}_RH.jpg
 
-
-    done
 done
